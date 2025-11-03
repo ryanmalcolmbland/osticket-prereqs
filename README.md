@@ -152,4 +152,4 @@ Description: Confirming access as an end-user.
 <br />
 
 <h1>Final Result:</h1>
-<h2>osTicket v1.15.8 successfully installed on a Windows 10 Azure VM with a fully functional IIS, PHP, and MySQL stack.</h2>
+<h2>osTicket v1.15.8 successfully installed on a Windows 11 Azure VM with a fully functional IIS, PHP, and MySQL stack.</h2>
