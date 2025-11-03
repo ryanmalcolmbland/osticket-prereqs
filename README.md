@@ -140,7 +140,7 @@ Description: Installation successful!
 <img width="2934" height="1754" alt="image" src="https://github.com/user-attachments/assets/b0e85fb3-f497-442f-bfe2-62f3389b5a06" />
 </p>
 <p>
-Description: Confirming access as an Admin.
+Description: Confirming access as an admin.
 </p>
 <br />
 <p>
