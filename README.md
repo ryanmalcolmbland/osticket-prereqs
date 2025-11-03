@@ -126,7 +126,7 @@ Description: Setting file permissions to "Everyone" with "Full Control" through 
 <img width="2910" height="1734" alt="image" src="https://github.com/user-attachments/assets/8e76d4ba-513c-4925-8a25-cafa3b787fec" />
 </p>
 <p>
-Description: Officially Installing osTicket.
+Description: Officially installing osTicket.
 </p>
 <br />
 <p>
